@@ -374,7 +374,7 @@ body {
     position: absolute;
     right: 0;
     top: 0;
-    /*background-color: #9D2929;*/
+    background-color: #9D2929;
     width: 200px;
     padding-bottom: 40px;
     transition: opacity 1.5s;
